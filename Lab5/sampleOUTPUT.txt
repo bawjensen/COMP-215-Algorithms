@@ -1,0 +1,35 @@
+
+1 million random values in range [1..10]
+
+Mac OS X, 2.5GHz Intel Core i5
+
+
+------------------------------
+  1: Create Random Data File
+  2: Read Random Data File
+  3: Find Mode (v1)
+  4: Find Mode (v2)
+  5: EXIT
+------------------------------
+Enter your choice: 3
+
+It took 3.696e-02 seconds to find the mode in 1000000 random long integers.
+
+Appearing 100670 times, the MODE is: 2
+
+
+
+------------------------------
+  1: Create Random Data File
+  2: Read Random Data File
+  3: Find Mode (v1)
+  4: Find Mode (v2)
+  5: EXIT
+------------------------------
+Enter your choice: 4
+
+It took 2.904e-03 seconds to find the mode in 1000000 random long integers.
+
+Appearing 100670 times, the MODE is: 2
+
+

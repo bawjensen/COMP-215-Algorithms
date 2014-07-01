@@ -1,0 +1,1 @@
+/* constants.h   last modified: 10/28/2013*/#include <string>using namespace std;#ifndef CONSTANTS#define CONSTANTS										const string DEFAULT_TEXT = "junk";// put any other of your constants here#endif

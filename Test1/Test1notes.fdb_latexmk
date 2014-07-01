@@ -1,0 +1,15 @@
+# Fdb version 3
+["pdflatex"] 1380858447 "Test1notes.tex" "Test1notes.pdf" "Test1notes" 1380858447
+  "/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
+  "/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty" 1303254447 7140 ece2cc23d9f20e1f53975ac167f42d3e ""
+  "/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty" 1335995445 6797 68c89f65e01894df882dd523d3fc0a8f ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1254151887 20571 b8bd218bf2e18b4f5817ee643cd9c515 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1254151887 9042 248dfba326a1b8733d6bb8e0a3ac1e49 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty" 1284422013 40502 e003406220954b0716679d7928aedd8a ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty" 1156702488 2266 7054435e4584a41cf53b0a7ca624d0cb ""
+  "Test1notes.aux" 1380858447 8 a94a2480d3289e625eea47cd1b285758 ""
+  "Test1notes.tex" 1380858446 1478 3fff5b9f1391df7c8a3acfe3e16146cc ""
+  (generated)
+  "Test1notes.pdf"
+  "Test1notes.aux"
+  "Test1notes.log"

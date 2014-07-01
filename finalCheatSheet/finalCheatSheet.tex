@@ -1,0 +1,50 @@
+\title{Algies Final 2013}
+\author{Bryan Jensen}
+\date{\today}
+
+\documentclass[12pt]{article}
+\usepackage[margin=0.0in]{geometry}
+\usepackage{lipsum}
+\usepackage{pbox}
+
+\begin{document}
+
+\fbox{ $T(n)=O(f(n))$ such that $T(n) \le c \cdot f(n)$ for all $n \ge n_{0}$ }
+\fbox{
+	\begin{tabular}{lll}
+	$1$ & constant & Best \\
+	$log(n)$ & logarithmic & Typically good \\
+	$n$ & linear & Pretty good \\
+	$n \cdot log(n)$ & linearithmic & Meh \\
+	$n^{2}$ & quadratic & Ok \\
+	$n^{3}$ & cubic & Bad \\
+	$2^{n}$ & exponential & Very bad \\
+	$c^{n}$ & exponential & Very very bad \\
+	$n!$ & factorial & Doesn't get worse \\
+	\end{tabular}
+}
+\\
+\fbox{
+	\begin{tabular}{lcll}
+	$5n + 10log(n)-12$ & $\le$ & $5n + 10log(n)-12$ & \\
+	& $\le$ & $5n + 10log(n)$ & \\
+	& $\le$ & $5n + 10n$ & $n \ge 1$ \\
+	& $\le$ & $15n$ & $n \ge 1$ \\
+	\\
+	& & & $c = 15$ \\
+	& & & $n_{0} = 1$ \\
+	& & & $T(n) \in O(n)$\\
+	\end{tabular}
+}
+\fbox{
+	\begin{tabular}{lll}
+	$O(n)$ & Worst case & Never goes slower \\
+	$\Omega(n)$ & Best case & Never goes faster \\
+	$\Theta(n)$ & Average case &  \\
+	\end{tabular}
+}
+\\
+\fbox{ $T(n)$ is $\Theta(f(n))$ iff $T(n) \in O(f(n))$ AND $T(n) \in \Omega(n)$ }
+
+
+\end{document}

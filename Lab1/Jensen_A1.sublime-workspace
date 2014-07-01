@@ -1,0 +1,895 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"other",
+				"otherFlipped"
+			],
+			[
+				"new",
+				"newDenom"
+			],
+			[
+				"polit",
+				"politicalView"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"second",
+				"secondsArray"
+			],
+			[
+				"el",
+				"elapsedTime"
+			],
+			[
+				"time",
+				"timeStamp"
+			],
+			[
+				"ac",
+				"activeoffers"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"edi",
+				"editmode"
+			],
+			[
+				"edit",
+				"editmode"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"func",
+				"function_exists"
+			],
+			[
+				"ta",
+				"tagName"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"editab",
+				"editables"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"offer",
+				"offerdiv"
+			],
+			[
+				"cour",
+				"course_format"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"passwo",
+				"passwordcorrect"
+			],
+			[
+				"pass",
+				"passwordcorrect"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"cl",
+				"columns"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"searc",
+				"searchresults"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"su",
+				"subtitle"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"tit",
+				"titletext"
+			],
+			[
+				"author",
+				"authortext"
+			],
+			[
+				"ISBN",
+				"ISBN_13"
+			],
+			[
+				"crea",
+				"createOffer"
+			],
+			[
+				"ISB",
+				"ISBN-13"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"I",
+				"ISBN_10"
+			],
+			[
+				"id",
+				"identifier"
+			],
+			[
+				"t",
+				"timeToToggle"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"googe",
+				"google-api-php-client"
+			],
+			[
+				"search",
+				"searchquerystring"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"user",
+				"usernamefilled"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"colum",
+				"columnname"
+			],
+			[
+				"p",
+				"php	<?php … ?>"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"bo",
+				"boolarray"
+			],
+			[
+				"login",
+				"loginregister"
+			],
+			[
+				"logg",
+				"loggedin"
+			],
+			[
+				"boex",
+				"boex_model"
+			],
+			[
+				"news",
+				"news_model"
+			],
+			[
+				"form",
+				"form_validation"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"allowed",
+				"AllowedFileType"
+			],
+			[
+				"file",
+				"fileType"
+			],
+			[
+				"split",
+				"splitName"
+			],
+			[
+				"spli",
+				"splitName"
+			],
+			[
+				"fli",
+				"fileString"
+			],
+			[
+				"window",
+				"windowSize"
+			],
+			[
+				"win",
+				"windowType"
+			],
+			[
+				"wind",
+				"windowEnd"
+			],
+			[
+				"windo",
+				"windowStart"
+			],
+			[
+				"windw",
+				"windowStart"
+			],
+			[
+				"coun",
+				"countUnitLabel"
+			],
+			[
+				"anal",
+				"analysisTypeLabel"
+			],
+			[
+				"graph",
+				"graphsize"
+			],
+			[
+				"plot",
+				"plotList"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"y",
+				"yExtent"
+			],
+			[
+				"rwa",
+				"rwanalysisimage"
+			],
+			[
+				"z",
+				"zoomed"
+			],
+			[
+				"dta",
+				"dataArray"
+			],
+			[
+				"data",
+				"dataArray"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#ifndef _STRING\n#define _STRING\n\n#include <iostream>\n#include <vector>\n\nusing namespace std;\n\nstatic const int MAX_LENGTH = 100;\n\nclass String {\n	vector<char> contents;\n  public:\n  	// String();\n  	String(char);\n\n	long length();\n\n	friend ostream& operator<<(ostream&, String);\n	friend istream& operator>>(istream&, String&);\n};\n\n#endif",
+			"file": "/home/bryan/Desktop/Jensen_A1/Jensen_A1.h",
+			"file_size": 332,
+			"file_write_time": 130231384225107568,
+			"settings":
+			{
+				"buffer_size": 335,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/bryan/Desktop/Jensen_A1/Jensen_A1.cpp",
+			"settings":
+			{
+				"buffer_size": 662,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/bryan/Desktop/Jensen_A1/main.cpp",
+			"settings":
+			{
+				"buffer_size": 165,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"ss c++",
+				"Set Syntax: C++"
+			],
+			[
+				"ss java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bryan/Desktop/Jensen_A1/a.out",
+		"/home/bryan/Desktop/215Lab2/Fraction.cpp",
+		"/home/bryan/Desktop/215Lab2/Jensen_A1.sublime-project",
+		"/home/bryan/Desktop/test.cpp",
+		"/home/bryan/Desktop/Lexos/templates/base.html",
+		"/home/bryan/Desktop/Lexos/templates/analysis.html",
+		"/home/bryan/Desktop/Lexos/templates/multicloud.html",
+		"/home/bryan/Desktop/Lexos/static/style.css",
+		"/home/bryan/Desktop/Jensen_A1/main.cpp",
+		"/home/bryan/Desktop/Jensen_A1/Jensen_A1.cpp",
+		"/home/bryan/Desktop/Jensen_A1/Jensen_A1.h",
+		"/home/bryan/Desktop/215Lab2/main.cpp",
+		"/home/bryan/Desktop/215Lab2/Fraction.h",
+		"/home/bryan/Desktop/Lab1_StarterKit_FBvisitor/FBvisitor/FBvisitor.cpp",
+		"/home/bryan/Desktop/Lab1_StarterKit_FBvisitor/FBvisitor/FBvisitor.h",
+		"/home/bryan/Desktop/Lab1_StarterKit_FBvisitor/FBvisitor/main.cpp",
+		"/home/bryan/Desktop/wbexchange/style.css",
+		"/home/bryan/Desktop/wbexchange/application/views/deleteuser.php",
+		"/home/bryan/Desktop/wbexchange/application/views/registrationsuccess.php",
+		"/home/bryan/Desktop/wbexchange/application/views/loginregister.php",
+		"/home/bryan/Desktop/wbexchange/application/views/showaccounts.php",
+		"/home/bryan/Desktop/wbexchange/application/views/viewbook.php",
+		"/home/bryan/Desktop/wbexchange/application/views/offerbook.php",
+		"/home/bryan/Desktop/wbexchange/application/views/search.php",
+		"/home/bryan/Desktop/wbexchange/application/views/displayoffersarray.php",
+		"/home/bryan/Desktop/wbexchange/application/views/account.php",
+		"/home/bryan/Desktop/wbexchange/application/views/editoffer.php",
+		"/home/bryan/Desktop/wbexchange/application/views/selling.php",
+		"/home/bryan/Desktop/wbexchange/application/views/buying.php",
+		"/home/bryan/Desktop/wbexchange/application/views/mainpage.php",
+		"/home/bryan/Desktop/wbexchange/application/views/templates/footer.php",
+		"/home/bryan/Desktop/wbexchange/application/views/templates/header.php",
+		"/home/bryan/Desktop/wbexchange/application/helpers/wbe_helper.php",
+		"/home/bryan/Desktop/wbexchange/application/models/boex_model.php",
+		"/home/bryan/Desktop/wbexchange/application/controllers/boex.php",
+		"/home/bryan/Desktop/wbexchange/scripts.js",
+		"/home/bryan/Desktop/Lexos/static/scripts_rwanalysis.js",
+		"/home/bryan/Desktop/wbexchange/application/config/database.php",
+		"/home/bryan/Desktop/testing.py",
+		"/home/bryan/.cache/.fr-rbRc2M/AmazonProductAdvtApiSampleCSharpQuery/AmazonProductAdvtApiSample.sln",
+		"/home/bryan/Desktop/wbexchange/application/config/autoload.php",
+		"/home/bryan/Desktop/w_book_exchange/scripts.js",
+		"/home/bryan/Desktop/w_book_exchange/style.css",
+		"/home/bryan/Desktop/w_book_exchange/application/views/deleteuser.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/showaccounts.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/registrationsuccess.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/loginregister.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/offerbook.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/viewbook.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/search.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/account.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/selling.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/buying.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/mainpage.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/templates/footer.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/templates/header.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/displayoffersarray.php",
+		"/home/bryan/Desktop/w_book_exchange/application/models/boex_model.php",
+		"/home/bryan/Desktop/w_book_exchange/application/controllers/boex.php",
+		"/etc/apache2/sites-enabled/000-default",
+		"/home/bryan/Desktop/w_book_exchange/application/views/news/index.php",
+		"/home/bryan/Desktop/w_book_exchange/application/models/news_model.php",
+		"/home/bryan/Desktop/w_book_exchange/application/controllers/news.php",
+		"/home/bryan/Desktop/w_book_exchange/application/config/database.php",
+		"/home/bryan/Desktop/w_book_exchange/application/config/config.php",
+		"/home/bryan/Desktop/w_book_exchange/application/config/autoload.php",
+		"/home/bryan/Desktop/Lexos/lexos.py",
+		"/home/bryan/Desktop/w_book_exchange/application/views/register.php",
+		"/home/bryan/Desktop/w_book_exchange/application/config/routes.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/news/create.php",
+		"/home/bryan/Desktop/w_book_exchange/.htaccess",
+		"/etc/apache2/apache2.conf",
+		"/etc/apache2/conf.d/security",
+		"/etc/apache2/conf.d/other-vhosts-access-log",
+		"/etc/apache2/conf.d/localized-error-pages",
+		"/etc/apache2/conf.d/charset",
+		"/etc/apache2/mods-enabled/alias.conf",
+		"/etc/apache2/mods-enabled/alias.",
+		"/etc/apache2/ports.conf",
+		"/home/bryan/Desktop/w_book_exchange/application/.htaccess",
+		"/home/bryan/Desktop/w_book_exchange/application/views/.htaccess",
+		"/home/bryan/Desktop/w_book_exchange/application/controllers/welcome.php",
+		"/home/bryan/Desktop/w_book_exchange/application/controllers/BoEx.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/index.html",
+		"/home/bryan/Desktop/w_book_exchange/application/views/news/view.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/news/success.php",
+		"/home/bryan/Desktop/w_book_exchange/application/controllers/pages.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/pages/home.php",
+		"/home/bryan/Desktop/w_book_exchange/application/views/pages/about.php",
+		"/home/bryan/Desktop/w_book_exchange/index.php",
+		"/home/bryan/Desktop/license.txt",
+		"/home/bryan/Desktop/Lexos/static/scripts_upload.js",
+		"/home/bryan/Desktop/Lexos/templates/cut.html",
+		"/home/bryan/Desktop/h5bp-html5-boilerplate-defe483/index.html",
+		"/home/bryan/Desktop/h5bp-html5-boilerplate-defe483/css/normalize.css",
+		"/home/bryan/Desktop/Lexos/templates/scrub.html",
+		"/home/bryan/Desktop/Lexos/rwanalysis.py",
+		"/home/bryan/Desktop/Lexos/scrubber.py",
+		"/home/bryan/Desktop/h5bp-html5-boilerplate-defe483/404.html",
+		"/home/bryan/Desktop/h5bp-html5-boilerplate-defe483/css/main.css",
+		"/var/www/index.html",
+		"/home/bryan/Desktop/w_book_exchange/index.html",
+		"/home/bryan/.cache/.fr-CoHVLo/test.txt",
+		"/home/bryan/.cache/.fr-oXSvhv/test2.txt",
+		"/home/bryan/.cache/.fr-4s4ahl/test.txt",
+		"/home/bryan/Desktop/files/Test/test2.txt",
+		"/home/bryan/Desktop/Lexos/static/flat/css/flat-ui.css",
+		"/home/bryan/Desktop/Lexos/static/scripts_scrub.js",
+		"/home/bryan/Desktop/Lexos/static/flat/js/flatui-checkbox.js",
+		"/home/bryan/Desktop/files/mytest.txt",
+		"/home/bryan/Desktop/T2.1ForBryanScrubbed.txt",
+		"/home/bryan/Desktop/T2.1ForBryan.txt",
+		"/home/bryan/Desktop/Lexos/templates/rwanalysis.html",
+		"/home/bryan/Desktop/A1.1_GenAB_T00010.sgml",
+		"/home/bryan/Desktop/files/alphabet.txt",
+		"/home/bryan/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/bryan/Desktop/files/numbers.txt",
+		"/home/bryan/Desktop/Lexos/numbers.txt",
+		"/home/bryan/Desktop/Lexos/static/scripts_wordcloud.js",
+		"/home/bryan/Desktop/Lexos/static/cloud_app.js",
+		"/home/bryan/Desktop/Lexos/templates/wordcloud.html",
+		"/home/bryan/Desktop/Lexos/templates/testingwcloud.html",
+		"/home/bryan/Desktop/Lexos/templates/extension.html",
+		"/home/bryan/Desktop/Lexos/templates/manage.html",
+		"/home/bryan/Desktop/Lexos/templates/upload.html",
+		"/home/bryan/Desktop/Lexos/templates/dendrogram.html",
+		"/home/bryan/Desktop/Lexos/templates/csvgenerator.html",
+		"/home/bryan/Desktop/Lexos/templates/viz.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navigationlist",
+			"analysisbar",
+			"navbar",
+			"ffffff",
+			"db",
+			"usernameunique_check",
+			"usernameexists_check",
+			"register",
+			"usrpwd",
+			"include",
+			"loginredirect",
+			"width",
+			"float",
+			"$resultArray->imageLink",
+			"$data['imageLink']",
+			"isset",
+			"display",
+			"===",
+			"cursor",
+			"margin-botto",
+			"isbn",
+			"href",
+			"usernameunique",
+			"usernameexists",
+			"input->",
+			"username_check",
+			"AllowOverride",
+			"//",
+			"AllowOverride",
+			"content",
+			"re.",
+			"import re",
+			"def rollinganalyze(fileString, analysisType, inputType, windowType, keyWord, secondKeyWord, windowSize, filepath): # widthWarp\n	\"\"\"\n	Creates a rolling window plot depending on the specifications chosen by the user.\n\n	Args:\n\n	Returns:\n\n	\"\"\"\n	windowSize = int(windowSize)\n	minNumOfWindows = 10\n	# widthWarp = float(widthWarp)\n\n	if windowType == 'word':\n		splitList = fileString.split()\n	elif windowType == 'line':\n		if re.search('\\r', fileString) != None:\n			splitList = fileString.split('\\r')\n		else:\n			splitList = fileString.split('\\n')\n\n	if windowType == 'word' or windowType == 'line':\n		splitList = [i for i in splitList if i != '']\n\n		if windowSize > len(splitList)-minNumOfWindows or windowSize <= 0:\n			windowSize = len(splitList)-minNumOfWindows\n	else:\n		if windowSize > len(fileString)-minNumOfWindows or windowSize <= 0:\n			windowSize = len(fileString)-minNumOfWindows\n\n\n	if analysisType == 'average':\n		if inputType == 'letter':\n			if windowType == 'letter':				\n				plotList = RollingAverageA(fileString, keyWord, windowSize)\n\n			else: # windowType == 'word' or windowType == 'line'\n				plotList = RollingAverageB(splitList, keyWord, windowSize)\n		\n		else: # inputType == 'word'\n			if windowType == 'word':\n				plotList = RollingAverageC(splitList, keyWord, windowSize)\n			else: # windowType == 'line'\n				plotList = RollingAverageD(splitList, keyWord, windowSize)\n\n	elif analysisType == 'ratio':\n		if inputType == 'letter':\n			if windowType == 'letter':\n				plotList = RollingRatioA(fileString, keyWord, secondKeyWord, windowSize)\n\n			else: # by word or line\n				plotList = RollingRatioB(splitList, keyWord, secondKeyWord, windowSize)\n\n		else: # inputType == 'word'\n			if windowType == 'word':\n				plotList = RollingRatioC(splitList, keyWord, secondKeyWord, windowSize)\n			else: # windowType == 'line'\n				plotList = RollingRatioD(splitList, keyWord, secondKeyWord, windowSize)\n\n\n	if windowType == 'letter':\n		countUnitLabel = 'characters'\n	elif windowType == 'word':\n		countUnitLabel = 'words'\n	else:\n		countUnitLabel = 'lines'\n\n\n	if analysisType == 'average':\n		graphLabel = \"Average number of \" + keyWord + \"'s in a window of \" + str(windowSize) + \" \" + countUnitLabel + \".\"\n	else:\n		graphLabel = \"Ratio of \" + keyWord + \"'s to (number of \" + keyWord + \"'s + number of \" + secondKeyWord + \"'s) in a window of \" + str(windowSize) + \" \" + countUnitLabel + \".\"\n\n\n	# fig = pyplot.figure(figsize=(10*widthWarp/100, 10))\n	# pyplot.plot(plotList)\n	# ax= pyplot.subplot(111)\n	# ax.set_xlabel('Window number (left-most point in each window)')\n	# ax.set_ylabel(Y_AXIS_LABEL)\n	# pyplot.axis([0, len(plotList)-1, -0.01, max(plotList)+(max(plotList)/20)])\n	# pyplot.savefig(open(filepath, 'w'), format='png')\n\n	return True, plotList, graphLabel\n",
+			"char",
+			"== char",
+			"windowSize = len(fileString)-minNumOfWindows",
+			"if windowSize",
+			"if",
+			"windowEnd",
+			"print",
+			"disabled",
+			"filestring",
+			"rwagraphwidth",
+			"widthwarp",
+			"rwagraphwidth",
+			"debug = ",
+			"key=natsort",
+			"natsort",
+			"returnRatioList",
+			"first",
+			"windowSize = int(",
+			"Y_AXIS_LABEL",
+			"line",
+			"style",
+			"width: 30px",
+			"style=",
+			"hr",
+			"lexosStr",
+			"angle-count",
+			"style",
+			"style=",
+			"{{",
+			"graphsize",
+			"script",
+			"words",
+			"parseText",
+			"fetcher",
+			"lexosStr",
+			"script",
+			"lexosStr",
+			"$",
+			"word",
+			"style=",
+			"cloud.css",
+			"d3",
+			"zoom",
+			"session['r",
+			"session['roll",
+			"alert",
+			".append",
+			"value",
+			":g\"",
+			"\"g\"",
+			"event",
+			"pan",
+			"mouse",
+			"line",
+			">\n",
+			"session['rwa",
+			"rollinggraph",
+			"session['dengenerated']",
+			"session['denfilepath']",
+			"jsonify",
+			":\n",
+			"title",
+			"dendrogram",
+			"ctrl+shift+k",
+			"ctrl+d\"",
+			"ctrl+d",
+			"Xml",
+			"wordDict"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"usernameunique",
+			"usernameexists",
+			"usrpwds",
+			"$imageLink",
+			"$resultArray->imageLink",
+			"fileString",
+			"ratios",
+			"\"svg:g\"",
+			"rwagraph",
+			"session['dengenerated']"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/bryan/Desktop/Jensen_A1/Jensen_A1.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/bryan/Desktop/Jensen_A1/Jensen_A1.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/bryan/Desktop/Jensen_A1/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"project": "Jensen_A1.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
